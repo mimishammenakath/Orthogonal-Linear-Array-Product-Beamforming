@@ -28,7 +28,7 @@ Please follow the below instructions to run the code.
 
 5. Please ensure that the Number of sensor elements M and N in the 'InputParameters' have been changed according to the data.
 
-6. Run the code.
+6. Run the code. Please ensure that the path provided in the script is valid. 
 
 Please see the articles mentioned in Academic references and Acknowledgements that are to be cited for any usage of the code and/or data.
 
