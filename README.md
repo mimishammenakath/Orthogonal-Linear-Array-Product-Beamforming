@@ -16,7 +16,7 @@ Center for Computational Imaging, Indian Institute of Technology Palakkad, Keral
 
 Please follow the below instructions to run the code.
 
-1. Download the scripts and 'functions' folder from the repository.
+1. Download the 'SourceCode' and 'functions' folders from the repository.
 
 2. Use 'TestData' in the folder as input data. To create more data, use the codes 'PointSource_Simulation', 'L_shape_Simulation' and 'Square_Shape_Simulation'. The data will be provided upon request.
 
